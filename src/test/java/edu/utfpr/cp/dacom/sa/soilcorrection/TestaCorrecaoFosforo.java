@@ -1,5 +1,6 @@
 package edu.utfpr.cp.dacom.sa.soilcorrection;
 
+import edu.utfpr.cp.dacom.sa.soilcorrection.correcoes.fontes.FonteFosforo;
 import edu.utfpr.cp.dacom.sa.soilcorrection.correcoes.CorrecaoFosforo;
 import edu.utfpr.cp.dacom.sa.soilcorrection.conversores.ConverteKgHaEmP2O5;
 import edu.utfpr.cp.dacom.sa.soilcorrection.conversores.ConverteMgDm3EmKgHa;
